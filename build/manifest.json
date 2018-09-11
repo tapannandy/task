@@ -1,0 +1,26 @@
+{
+  "name": "Muvi Intranet",
+  "short_name": "Muvi",
+  "icons": [
+      {
+        "src": "muvi_icon_144x144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "muvi_icon_192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "muvi_icon_256x256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }
+  ],
+  "start_url": "https://intranet.edocent.com/login",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3"
+}
